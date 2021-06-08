@@ -8,7 +8,7 @@
 
 <!--[STATS]-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robriard&count_private=true&theme=radical&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=robriard&count_private=true&theme=react&show_icons=true">
 </p>
 
 <!--[TOP LANGUAGES]-->
