@@ -1,4 +1,4 @@
-#uncomment the next line if you use a oh-my-zsh
+#uncomment the next line if you use oh-my-zsh
 #unalias gcl
 
 alias back="cd - > /dev/null"
