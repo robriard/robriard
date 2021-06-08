@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robriard)](https://github.com/robriard/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&layout=compact&theme=radical&show_icons=true)](https://github.com/robriard/github-readme-stats)
 
 [![Les Stats GitHub de robriard](https://github-readme-stats.vercel.app/api?username=robriard&count_private=true&theme=radical&show_icons=true)](https://github.com/robriard/github-readme-stats)
 
