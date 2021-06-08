@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="bash" width="60" height="60" />
+</p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&layout=compact&theme=react&show_icons=true)](https://github.com/robriard/github-readme-stats)
 
 [![Les Stats GitHub de robriard](https://github-readme-stats.vercel.app/api?username=robriard&count_private=true&theme=radical&show_icons=true)](https://github.com/robriard/github-readme-stats)
