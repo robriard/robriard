@@ -5,9 +5,17 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&layout=compact&theme=react&show_icons=true)](https://github.com/robriard/github-readme-stats)
+[![Top Langs]
+<p align="rigth">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&layout=compact&theme=react&show_icons=true">
+</p>
 
-[![Les Stats GitHub de robriard](https://github-readme-stats.vercel.app/api?username=robriard&count_private=true&theme=radical&show_icons=true)](https://github.com/robriard/github-readme-stats)
+[![Les Stats GitHub de robriard]
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=robriard&count_private=true&theme=radical&show_icons=true">
+</p>
+
+
 
 <!--
 **robriard/robriard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
