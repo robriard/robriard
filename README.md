@@ -18,6 +18,6 @@
 
 
 #### VIM CONFIG
-You can find my vim config [here](https://github.com/jloro/vimrc.git)
-[you can find my zshrc custom function and alias in zsh-config file](/srcs/vim-visual.png?raw=true)
+You can find my vim config [here](https://github.com/jloro/vimrc.git)  
+you can find my zshrc custom function and alias in [zsh-config file](https://github.com/robriard/robriard/srcs/vim-visual.png?raw=true)
 
