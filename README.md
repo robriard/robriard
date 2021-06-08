@@ -6,12 +6,12 @@
 </p>
 
 <!--[STATS]-->
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robriard&count_private=true&theme=radical&show_icons=true">
 </p>
 
 <!--[TOP LANGUAGES]-->
-<p align="rigth">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&layout=compact&theme=react&show_icons=true">
 </p>
 
