@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://badge42.herokuapp.com/api/stats/robriard?privacyName=true&privacyEmail=true"
+  <img src="https://badge42.herokuapp.com/api/stats/robriard?privacyName=true&privacyEmail=true">
 </p>
 
 <!--
