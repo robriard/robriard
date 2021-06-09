@@ -16,9 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&layout=compact&theme=tokyonight&show_icons=true">
 </p>
 
-
-#### VIM CONFIG
-You can find my vim config [here](https://github.com/jloro/vimrc.git)  
-you can find my zshrc custom function and alias in [zsh-config file](https://github.com/robriard/robriard/blob/main/srcs/zsh-config)
-![zsh-config file](/srcs/vim-visual.png?raw=true)
-
+<p align="center">
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/robriard?)](https://github.com/robriard)
+</p>
