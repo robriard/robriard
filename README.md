@@ -18,5 +18,5 @@
 
 
 <p align="center">
-  <img srcs="https://badge42.herokuapp.com/api/stats/robriard?)](https://github.com/robriard">
+  <img srcs="https://badge42.herokuapp.com/api/stats/robriard">
 </p>
