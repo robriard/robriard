@@ -16,4 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&layout=compact&theme=tokyonight&show_icons=true">
 </p>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/robriard?)](https://github.com/robriard)
+
+<p align="center">
+  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/robriard?)](https://github.com/robriard)
+</p>
