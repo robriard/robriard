@@ -18,5 +18,5 @@
 
 
 <p align="center">
-  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/robriard?)](https://github.com/robriard)
+  <img srcs="https://badge42.herokuapp.com/api/stats/robriard?)](https://github.com/robriard">
 </p>
