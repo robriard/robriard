@@ -12,11 +12,15 @@
 </p>
 
 <!--[STATS]-->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robriard&count_private=true&theme=tokyonight&show_icons=true">
 </p>
+-->
 
 <!--[TOP LANGUAGES]-->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&layout=compact&theme=tokyonight&show_icons=true">
 </p>
+-->
