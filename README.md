@@ -1,7 +1,6 @@
 <!--[42 STATS]-->
-<p align="center">
-  <img src="https://badge42.herokuapp.com/api/stats/robriard?privacyName=true&privacyEmail=true">
-</p>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1l2swyp000609l21r3i54a3/stats?cursusId=21&coalitionId=47" alt="robriard's 42 stats" />
+</a>
 
 <!--[LANGUAGE FAVORIS]-->
 <p align="center">
