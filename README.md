@@ -13,7 +13,7 @@ and help of other passionate people 🌱.
   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-original.svg" alt="docker" width="45" height="45" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&theme=Gradient&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robriard&theme=dracula&layout=compact)
 
 ##### Statistics
 <p align="left">
