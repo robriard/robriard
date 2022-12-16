@@ -3,7 +3,7 @@
 
 ### Who I am?
 I'm 42Paris School student currently working on low-level programation and DevOps.
-I'm passionate about making making a mroe ethic world with the embed computing
+I'm passionate about making a more ethic world with the embed computing
 and help of other passionate people 🌱.
 
 ### Technologies
