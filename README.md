@@ -2,7 +2,7 @@
 ![views count](https://komarev.com/ghpvc/?username=robriard&color=blueviolet)
 
 ### Who I am?
-I'm [![42Paris](https://img.shields.io/badge/Paris-FFFFFF?style=plastic&logo=42&logoColor=003282)](https://profile.intra.42.fr/users/robriard) School student currently working on low-level programation and DevOps.
+I'm [![42Paris](https://img.shields.io/badge/Paris-003282?style=plastic&logo=42&logoColor=000000)](https://profile.intra.42.fr/users/robriard) School student currently working on low-level programation and DevOps.
 I'm passionate about making a more ethic world with the embed computing
 and help of other passionate people 🌱.
 
